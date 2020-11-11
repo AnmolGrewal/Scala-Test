@@ -20,9 +20,3 @@ For the input to replicate the Haskell Exercises
 
 Please Comment and Uncomment the main function accordingly
 Located at src/main/scala/main/mainclass.scala
-
-
-
-Total words for report is 2076, I understand it said single space but in terms of
-Single space a page is an average of ~500 words so 4-5 pages would be 2000-2500. Therefore
-for better presentation I used double spaced and APA format
